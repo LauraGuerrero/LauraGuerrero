@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <h3 align="center">A passionate backend developer from Spain</h3>
 
-- 🔭 I’m currently working on **Buscador-Corporativo**
+- 🔭 I’m currently looking for **Others Alternatives**
 
 - 🌱 I’m currently learning **Frameworks, coursers and languages !**
 
